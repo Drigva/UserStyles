@@ -4,6 +4,7 @@
 @version        1.0.0
 @description    Makes Notion dividers thicker, more visible, and customizable (solid/dashed/dotted/rounded)
 @author         Drygva
+@updateURL      https://raw.githubusercontent.com/Drigva/UserStyles/refs/heads/main/Notion/Notion%20-%20Customizable%20Divider
 @license        MIT
 @preprocessor   stylus
 @var color divider-color "Divider Color" rgba(255, 255, 255, 0.13)
