@@ -2,7 +2,7 @@
 @name           Notion - Customizable Divider
 @namespace      github.com/openstyles/stylus
 @version        1.0.0
-@description    Makes Notion dividers thicker, more visible, and customizable (solid/dashed/dotted/rounded)
+@description    Makes Notion dividers thicker, more visible, and customizable (solid/dashed/dotted)
 @author         Drygva
 @updateURL      https://raw.githubusercontent.com/Drigva/UserStyles/refs/heads/main/Notion/Notion%20-%20Customizable%20Divider
 @license        MIT
