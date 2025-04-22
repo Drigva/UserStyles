@@ -4,7 +4,7 @@
 @version        1.0.0
 @description    Fully customizable dividers for Notion. Adjust thickness, line style (solid/dashed/dotted), color to match your workspace aesthetic.
 @author         Drygva
-@updateURL      https://raw.githubusercontent.com/Drigva/UserStyles/refs/heads/main/Notion/Notion%20-%20Customizable%20Divider
+@updateURL      https://raw.githubusercontent.com/Drigva/UserStyles/main/Notion/Notion%20-%20Customizable%20Divider.user.css
 @license        MIT
 @preprocessor   stylus
 @var color divider-color "Divider Color" rgba(255, 255, 255, 0.13)
