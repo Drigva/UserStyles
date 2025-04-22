@@ -1,0 +1,24 @@
+/* ==UserStyle==
+@name           Notion - Customizable Divider
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Makes Notion dividers thicker, more visible, and customizable (solid/dashed/dotted/rounded)
+@author         Drygva
+@license        MIT
+@preprocessor   stylus
+@var color divider-color "Divider Color" rgba(255, 255, 255, 0.13)
+@var range divider-thickness "Divider Thickness" [1, 1, 10, 1, "px"]
+@var select divider-style "Divider Style" {
+  "Solid": "solid",
+  "Dashed": "dashed",
+  "Dotted": "dotted",
+}
+==/UserStyle== */
+
+@-moz-document domain("notion.so") {
+    div[role="separator"] {
+        height: divider-thickness * 1px !important;
+        border-bottom: divider-thickness * 1px divider-style divider-color !important;
+        margin: 1px 0 !important;
+    }
+}
