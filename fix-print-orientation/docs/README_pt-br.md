@@ -6,26 +6,30 @@
 
 ##### Sumário
 
-1. Descrição
+1. [Descrição](#descrição)
 
-2. Instalação
+2. [Instalação](#instalação)
 
-3. Compatibilidade
+3. [Compatibilidade](#compatibilidade)
 
-4. Licença
-
----
+4. [Licença](#licença)
 
 ### Descrição
 
-Este userstyle configura automaticamente a orientação de impressão para "auto" em páginas da web, garantindo maior compatibilidade com a janela de impressão do Chrome, permitindo que o navegador ajuste o tamanho da página dinamicamente. Isso é especialmente útil para usuários que enfrentam problemas com a ausência das opções "Ajustar à página" ou orientação paisagem na janela de impressão do Chrome.
+Este userstyle define o tamanho da página como automático para impressão em páginas da web, melhorando a compatibilidade com a janela de impressão do Chrome ao usar as configurações padrão da impressora. Isso é especialmente útil para resolver problemas com a ausência da opção "Paisagem" na janela de impressão do Chrome.
+
+#### Antes:
+![Antes de aplicar o UserStyle](../images/before.png)
+
+#### Depois:
+![Após aplicar o UserStyle](../images/after.png)
 
 **Créditos**: Este userstyle é baseado em uma solução fornecida por [Peter Ajamian](https://support.google.com/chrome/thread/3101500?hl=en&msgid=95601075) em um tópico de suporte do Google Chrome.
 
 ### Instalação
 
 1. Instale a extensão [Stylus](https://add0n.com/stylus.html) para Chrome, Firefox ou Edge.
-2. Clique [neste link](https://raw.githubusercontent.com/username/repository/main/fix-print-orientation.css) para instalar o userstyle diretamente no Stylus.
+2. Clique [neste link](https://github.com/Drigva/UserStyles/raw/refs/heads/main/fix-print-orientation/css/fix-print-orientation.css) para instalar o userstyle diretamente no Stylus.
 3. Confirme a instalação no Stylus, e o estilo será aplicado a todas as páginas da web.
 4. Ao imprimir, a página agora deve se ajustar automaticamente à orientação correta.
 
