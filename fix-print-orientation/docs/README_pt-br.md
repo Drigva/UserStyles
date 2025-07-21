@@ -29,7 +29,7 @@ Este userstyle define o tamanho da página como automático para impressão em p
 ### Instalação
 
 1. Instale a extensão [Stylus](https://add0n.com/stylus.html) para Chrome, Firefox ou Edge.
-2. Clique [neste link](https://github.com/Drigva/UserStyles/raw/refs/heads/main/fix-print-orientation/css/fix-print-orientation.css) para instalar o userstyle diretamente no Stylus.
+2. Clique [neste link](https://github.com/Drigva/UserStyles/raw/refs/heads/main/fix-print-orientation/css/fix-print-orientation.user.css) para instalar o userstyle diretamente no Stylus.
 3. Confirme a instalação no Stylus, e o estilo será aplicado a todas as páginas da web.
 4. Ao imprimir, a página agora deve se ajustar automaticamente à orientação correta.
 
