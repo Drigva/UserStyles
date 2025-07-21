@@ -29,7 +29,7 @@ This userstyle sets the page size to automatic for printing web pages, improving
 ### Installation
 
 1. Install the [Stylus extension](https://add0n.com/stylus.html) for Chrome, Firefox, or Edge.
-2. Click [this link](https://github.com/Drigva/UserStyles/raw/refs/heads/main/fix-print-orientation/css/fix-print-orientation.css) to install the userstyle directly in Stylus.
+2. Click [this link](https://github.com/Drigva/UserStyles/raw/refs/heads/main/fix-print-orientation/css/fix-print-orientation.user.css) to install the userstyle directly in Stylus.
 3. Confirm the installation in Stylus, and the style will be applied to all web pages.
 4. When printing, the page should now adjust automatically to the correct orientation.
 
