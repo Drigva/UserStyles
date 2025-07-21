@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           Fix Orientation for Printing
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Automatically sets the print orientation to auto for better compatibility with Chrome's print dialog.
+@author         Drygva
+@homepageURL    https://support.google.com/chrome/thread/3101500
+==/UserStyle== */
+
+@-moz-document regexp(".*") {
+    @page {
+        size: auto;
+    }
+}
