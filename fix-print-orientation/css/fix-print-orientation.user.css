@@ -5,7 +5,7 @@
 @description    Sets the page size to auto for web printing, improving compatibility with Chrome's print dialog by using the printer's default settings. Useful for resolving issues with missing "Fit to Page" or landscape options.
 @author         Drygva
 @homepageURL    https://github.com/Drigva/UserStyles/tree/main/fix-print-orientation/README.md
-@updateURL      https://github.com/Drigva/UserStyles/raw/refs/heads/main/fix-print-orientation/css/fix-print-orientation.css
+@updateURL      https://github.com/Drigva/UserStyles/raw/refs/heads/main/fix-print-orientation/css/fix-print-orientation.user.css
 @license        MIT
 ==/UserStyle== */
 @-moz-document regexp(".*") {
