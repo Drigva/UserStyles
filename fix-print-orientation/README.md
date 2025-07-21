@@ -19,10 +19,10 @@
 This userstyle sets the page size to automatic for printing web pages, improving compatibility with Chrome's print window when using the printer's default settings. This is especially useful for addressing issues with the absence of the "Landscape" option in Chrome's print window.
 
 #### Before:
-![Before applying the UserStyle](../images/before.png)
+![Before applying the UserStyle](images/before.png)
 
 #### After:
-![After applying the UserStyle](../images/after.png)
+![After applying the UserStyle](images/after.png)
 
 **Credits**: This userstyle is based on a solution provided by [Peter Ajamian](https://support.google.com/chrome/thread/3101500?hl=en&msgid=95601075) in a Google Chrome support thread.
 
