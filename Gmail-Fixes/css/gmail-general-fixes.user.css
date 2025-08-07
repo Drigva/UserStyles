@@ -8,7 +8,6 @@
 @updateURL      https://github.com/Drigva/UserStyles/raw/refs/heads/main/Gmail-Fixes/css/gmail-general-fixes.user.css
 @license        MIT
 ==/UserStyle== */
-
 @-moz-document domain("mail.google.com") {
 	/* Largura máxima da guia 'mover' no Gmail */
 	.agd {
@@ -20,6 +19,7 @@
 		max-width: 92% !important;
 	}
 }
+
 
 
 
