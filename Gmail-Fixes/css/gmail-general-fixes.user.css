@@ -11,9 +11,15 @@
 ==/UserStyle== */
 
 @-moz-document domain("mail.google.com") {
-	/* Define a largura máxima da guia 'mover' no Gmail */
-  .agd {
-    max-width: 800px !important;
-  }
+	/* Largura máxima da guia 'mover' no Gmail */
+	.agd {
+		width: 50% !important;
+		max-width: 50% !important;
+		}
+	/* Largura máxima da caixa de texto guia 'mover' no Gmail */
+	.J-M-JJ input {
+		max-width: 92% !important;
+	}
 }
+
 
