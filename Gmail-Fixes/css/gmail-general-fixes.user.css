@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Gmail - General Fixes
 @namespace      http://github.com/Drigva/UserStyles
-@version        1.0.0
+@version        1.0.1
 @description    Define max-width de .agd como 800px no Gmail
 @author         Drygva
 @homepageURL    https://github.com/Drigva/UserStyles/tree/main/Gmail-Fixes/README.md
@@ -18,7 +18,12 @@
 	.J-M-JJ input {
 		max-width: 92% !important;
 	}
+	/* Largura máxima do seletor de labels nos filtros*/
+	.aeE {
+		width: 100% !important;
+	}
 }
+
 
 
 
