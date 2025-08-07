@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Gmail - General Fixes
 @namespace      http://github.com/Drigva/UserStyles
-@version        1.0.1
+@version        1.0.2
 @description    Define max-width de .agd como 800px no Gmail
 @author         Drygva
 @homepageURL    https://github.com/Drigva/UserStyles/tree/main/Gmail-Fixes/README.md
@@ -11,9 +11,14 @@
 @-moz-document domain("mail.google.com") {
 	/* Largura máxima da guia 'mover' no Gmail */
 	.agd {
-		width: 50% !important;
+		width: 30% !important;
 		max-width: 50% !important;
 		}
+	/*Centralizar guia mover*/
+	.agd {
+		left: 50% !important;
+		transform: translateX(-50%) !important;
+	}
 	/* Largura máxima da caixa de texto guia 'mover' no Gmail */
 	.J-M-JJ input {
 		max-width: 92% !important;
@@ -23,6 +28,7 @@
 		width: 100% !important;
 	}
 }
+
 
 
 
