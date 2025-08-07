@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           Gmail - General Fixes
+@namespace      userstyles.world.user
+@version        1.0.0
+@description    Define max-width de .agd como 800px no Gmail
+@author         Você
+@match          https://mail.google.com/*
+==/UserStyle== */
+
+@-moz-document domain("mail.google.com") {
+	/* Define a largura máxima da guia 'mover' no Gmail */
+  .agd {
+    max-width: 800px !important;
+  }
+}
