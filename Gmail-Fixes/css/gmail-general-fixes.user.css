@@ -7,7 +7,6 @@
 @homepageURL    https://github.com/Drigva/UserStyles/tree/main/Gmail-Fixes/README.md
 @updateURL      https://github.com/Drigva/UserStyles/raw/refs/heads/main/Gmail-Fixes/css/gmail-general-fixes.user.css
 @license        MIT
-@match          https://mail.google.com/*
 ==/UserStyle== */
 
 @-moz-document domain("mail.google.com") {
@@ -21,5 +20,6 @@
 		max-width: 92% !important;
 	}
 }
+
 
 
